@@ -4,13 +4,13 @@
 
 22-1학기  "패턴인식과머신러닝" 과목의 팀프로젝트입니다.
 
-### Purpose  
+## Purpose  
 
 ------
 
 본 프로젝트의 목적은 fashion image를 입력받아 자동으로 Resort / Retro / Sporty 로 분류하는 Convolutional Neural  Network (CNN)을 개발하는 것으로 해당 프로젝트에서는 AlexNet, VGGNet, GoogleNet, ResNet, Densenet의 모델 구조를 참고하여 학습을 진행하였다.
 
-### Train Data
+## Train Data
 
 ------
 
@@ -27,7 +27,7 @@ Train data 7200장 Validation data 1800으로 training을 진행했고 Data augm
 └── Sporty
 ```
 
-### Result
+## Result
 
 ------
 
@@ -45,13 +45,13 @@ Train data 7200장 Validation data 1800으로 training을 진행했고 Data augm
 
 <img src="C:\Users\kate1\Desktop\result.PNG" alt="result" style="zoom:80%;" />
 
-### Test Score
+## Test Score
 
 ------
 
 1200개 test 파일에 대한 classification 결과는 76.08%의 accuracy로 13개 팀 중  2위
 
-### Structure
+## Structure
 
 ------
 
@@ -70,13 +70,13 @@ FashionClassification
  
 ```
 
-### Cotributors
+## Cotributors
 
 ------
 
 Team B : 김나윤,박근아,이하은,정민주
 
-### Code Reference
+## Code Reference
 
 ------
 
@@ -89,16 +89,3 @@ Team B : 김나윤,박근아,이하은,정민주
   - [Resnet](https://pseudo-lab.github.io/pytorch-guide/docs/ch03-1.html)
   - [Alexnet](https://medium.com/analytics-vidhya/alexnet-a-simple-implementation-using-pytorch-30c14e8b6db2)
   - [Googlenet](https://deep-learning-study.tistory.com/523)
-
-
-
-
-
-
-
-
-
-
-
-
-
