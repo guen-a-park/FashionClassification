@@ -33,7 +33,7 @@ Train data 7200장 Validation data 1800으로 training을 진행했고 Data augm
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![image](https://user-images.githubusercontent.com/77844152/181899360-8c2c8df8-2185-48a9-9362-f42605ff5d34.png) | ![image](https://user-images.githubusercontent.com/77844152/181899488-c0bcde93-0a80-4542-bb5d-7dda0dadb684.png) |
 
-아래 표는 각 모델에 대한 세부적인 hyper parameter와 train accuracy로 자세한 결과는 보고서를 통해 확인할 수 있다. [[link]]()
+아래 표는 각 모델에 대한 세부적인 hyper parameter와 train accuracy로 자세한 결과는 보고서를 통해 확인할 수 있다. [[link]](https://github.com/guen-a-park/FashionClassification/blob/main/TeamB_report.pdf)
 
 <img src="https://user-images.githubusercontent.com/77844152/181899046-f657516d-bfd9-4a1b-a207-4e1aa07adb2d.PNG" alt="result" style="zoom:80%;" />
 
